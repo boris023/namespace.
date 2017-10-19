@@ -1,2 +1,2 @@
-# namespace.
-jib
+# namespace
+namespace
